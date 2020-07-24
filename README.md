@@ -1,4 +1,4 @@
-# The Weather App
+# WeatherApp
 
 This is a weather forcast application built with React Native using Expo CLI. Upon search of any city, the application returns the weather and temperature in real time from a MetaWeather API, coupled with a smooth UI displaying a background image similar to the current weather condition of the inputed city. 
 
